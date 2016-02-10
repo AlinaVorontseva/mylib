@@ -1,0 +1,12 @@
+Package: MyLib
+Title: Frequently used functions
+Version: 0.0.0.9000
+Author: Alina Vorontseva
+Description: Useful self-written functions: clustering, ABC & XYZ analysis
+Depends:
+    R (>= 3.2.3)
+LazyData: true
+Imports:
+    kohonen
+Date: 2016-02-09
+RoxygenNote: 5.0.1
